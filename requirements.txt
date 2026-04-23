@@ -7,3 +7,5 @@ fastapi
 pydantic
 langchain-chroma
 langchain-groq
+duckduckgo-search
+streamlit-lottie
